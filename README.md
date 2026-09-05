@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left"># Hi 👋! I'm Ronan <br>💻 Full Stack Developer  <br><br>🛠️ JavaScript | React | Python | PHP | SQL | PostgreSQL</h2>
+<h2 data-importer="text" align="left"># Olá 👋! Eu sou o Ronan <br>💻 Desenvolvedor Full Stack  <br><br>🛠️ JavaScript | React | Python | PHP | SQL | PostgreSQL</h2>
 
 ###
 
